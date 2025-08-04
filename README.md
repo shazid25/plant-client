@@ -75,8 +75,8 @@ npm install
 
 ```env
 PORT=3000
-DB_USER=yourMongoUser
-DB_PASS=yourMongoPassword
+DB_USER=************************
+DB_PASS=********************
 ```
 
 4. Start the server:
