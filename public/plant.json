@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Monstera Deliciosa",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Bright Indirect",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-15",
+    "image": "https://images.unsplash.com/photo-1616627458519-d95cc0ab05a6?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 2,
+    "name": "Snake Plant",
+    "type": "Succulent",
+    "location": "Indoor",
+    "wateringFrequency": "Bi-weekly",
+    "sunlight": "Low Light",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-10",
+    "image": "https://images.unsplash.com/photo-1609946591229-6e2f9ef3ef52?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera",
+    "type": "Succulent",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Direct Sunlight",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-12",
+    "image": "https://images.unsplash.com/photo-1606813902825-17239984f61c?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 4,
+    "name": "Peace Lily",
+    "type": "Flowering",
+    "location": "Indoor",
+    "wateringFrequency": "Twice a Week",
+    "sunlight": "Indirect Light",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-11",
+    "image": "https://images.unsplash.com/photo-1587614295999-fc1e3989a35e?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 5,
+    "name": "Spider Plant",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Indirect Light",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-09",
+    "image": "https://images.unsplash.com/photo-1627492711232-ea61a6781e4e?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 6,
+    "name": "Fiddle Leaf Fig",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Bright Light",
+    "healthStatus": "Needs Attention",
+    "lastWatered": "2023-06-13",
+    "image": "https://images.unsplash.com/photo-1615491246252-ec7cd853b1a3?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 7,
+    "name": "ZZ Plant",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Bi-weekly",
+    "sunlight": "Low Light",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-08",
+    "image": "https://images.unsplash.com/photo-1612392061775-57a83d63ce24?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 8,
+    "name": "Boston Fern",
+    "type": "Fern",
+    "location": "Indoor",
+    "wateringFrequency": "Every 3 Days",
+    "sunlight": "Indirect Light",
+    "healthStatus": "Dry Tips",
+    "lastWatered": "2023-06-14",
+    "image": "https://images.unsplash.com/photo-1626119627493-7d98dc28e7b0?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 9,
+    "name": "Areca Palm",
+    "type": "Palm",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Bright Indirect",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-07",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1ea9fc6?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 10,
+    "name": "Dracaena",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Filtered Light",
+    "healthStatus": "Leaf Browning",
+    "lastWatered": "2023-06-06",
+    "image": "https://images.unsplash.com/photo-1583337130024-244d21c92cd5?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 11,
+    "name": "Calathea",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Every 3 Days",
+    "sunlight": "Indirect Light",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-13",
+    "image": "https://images.unsplash.com/photo-1601049943223-c3f1e40443cb?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 12,
+    "name": "Chinese Evergreen",
+    "type": "Evergreen",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Low to Medium",
+    "healthStatus": "Yellow Leaves",
+    "lastWatered": "2023-06-12",
+    "image": "https://images.unsplash.com/photo-1615486369753-ef4d0b7c8f7f?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 13,
+    "name": "Pothos",
+    "type": "Vine",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Low to Bright Indirect",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-11",
+    "image": "https://images.unsplash.com/photo-1604948501466-4c40d7b8e4b9?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 14,
+    "name": "Jade Plant",
+    "type": "Succulent",
+    "location": "Indoor",
+    "wateringFrequency": "Bi-weekly",
+    "sunlight": "Direct Sunlight",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-10",
+    "image": "https://images.unsplash.com/photo-1625803787504-6b8caa3c6ab2?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 15,
+    "name": "Rubber Plant",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Bright Indirect",
+    "healthStatus": "Dusty Leaves",
+    "lastWatered": "2023-06-09",
+    "image": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 16,
+    "name": "Croton",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Twice a Week",
+    "sunlight": "Bright Direct",
+    "healthStatus": "Color Fading",
+    "lastWatered": "2023-06-08",
+    "image": "https://images.unsplash.com/photo-1605106702701-bf12baf67564?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 17,
+    "name": "Cactus",
+    "type": "Succulent",
+    "location": "Indoor",
+    "wateringFrequency": "Monthly",
+    "sunlight": "Full Sun",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1596797038530-2e12e9e59e57?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 18,
+    "name": "Oxalis Triangularis",
+    "type": "Flowering",
+    "location": "Indoor",
+    "wateringFrequency": "Twice a Week",
+    "sunlight": "Indirect Light",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-15",
+    "image": "https://images.unsplash.com/photo-1593104020671-3ee6f00344a1?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 19,
+    "name": "Dieffenbachia",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Filtered Light",
+    "healthStatus": "Leaf Curling",
+    "lastWatered": "2023-06-05",
+    "image": "https://images.unsplash.com/photo-1583337130248-75b050bbdd41?auto=format&fit=crop&w=300"
+  },
+  {
+    "id": 20,
+    "name": "Philodendron",
+    "type": "Tropical",
+    "location": "Indoor",
+    "wateringFrequency": "Weekly",
+    "sunlight": "Medium Light",
+    "healthStatus": "Healthy",
+    "lastWatered": "2023-06-14",
+    "image": "https://images.unsplash.com/photo-1587334206595-e66d5f2e7f99?auto=format&fit=crop&w=300"
+  }
+]
