@@ -1,12 +1,154 @@
-# React + Vite
+# 🌿 Plant Manager App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to **add**, **view**, **edit**, and **delete** plant entries with details like watering, sunlight, fertilizer, care notes, and photos.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add new plants with detailed care info
+- ✅ View all added plants in a responsive grid
+- ✅ Edit plant details from individual view pages
+- ✅ Delete plants from your collection
+- ✅ Beautiful and mobile-friendly design using Tailwind CSS
+- ✅ Fully connected to MongoDB database via Express server
+- 🔐 Firebase authentication supported (optional extension)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+### Frontend
+- React (with Vite)
+- React Router DOM
+- Tailwind CSS
+- AOS (Animate On Scroll)
+- Firebase Auth (if configured)
+
+### Backend
+- Node.js
+- Express
+- MongoDB Atlas
+- dotenv
+- CORS
+
+---
+
+## 📁 Folder Structure
+
+```
+plant-manager/
+├── client/              # React frontend
+│   ├── pages/
+│   ├── components/
+│   ├── routes/
+│   └── main.jsx
+└── server/              # Express backend
+    └── index.js
+```
+
+---
+
+## ⚙️ Getting Started
+
+### 🔧 Prerequisites
+
+- Node.js (v18+)
+- MongoDB Atlas account (with URI)
+- Firebase project (optional)
+
+---
+
+### 📦 Backend Setup (Express)
+
+1. Go to the `server/` folder:
+
+```bash
+cd server
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Create a `.env` file:
+
+```env
+PORT=3000
+DB_USER=yourMongoUser
+DB_PASS=yourMongoPassword
+```
+
+4. Start the server:
+
+```bash
+node index.js
+```
+
+✅ Server will run on `http://localhost:3000`.
+
+---
+
+### 💻 Frontend Setup (React)
+
+1. Go to the `client/` folder:
+
+```bash
+cd client
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
+
+✅ React app will run on `http://localhost:5173`.
+
+---
+
+## 🌐 API Endpoints
+
+| Method | Endpoint             | Description         |
+|--------|----------------------|---------------------|
+| `POST` | `/plants`            | Add a new plant     |
+| `GET`  | `/plants`            | Get all plants      |
+| `GET`  | `/plants/:id`        | Get plant by ID     |
+| `PUT`  | `/plants/:id`        | Update plant by ID  |
+| `DELETE` | `/plants/:id`      | Delete plant by ID  |
+
+---
+
+## 📸 Screenshots
+
+> _Add screenshots of the homepage, add plant form, and plant list here._
+
+---
+
+## ✨ Future Improvements
+
+- ✅ User-specific plant storage (via Firebase)
+- ✅ Image upload via Cloudinary
+- ✅ Search and filter plants
+- ✅ Responsive animations and dark mode
+- ✅ Bookmark favorite plants
+
+---
+
+## 🧑‍💻 Author
+
+**Irfan Shazid**
+
+> 💬 _Feel free to contribute, clone, and enhance this project._
+
+---
+
+## 📜 License
+
+MIT
